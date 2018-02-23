@@ -1,0 +1,9 @@
+header {
+  background-image: url("../img/pingPong1.jpg");
+  height: 50vh;
+}
+
+
+#result {
+    display: none;
+  }
