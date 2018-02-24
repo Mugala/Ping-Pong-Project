@@ -4,7 +4,7 @@ header {
   height: 80vh;
 }
 
-header, h1{
+header, h1 {
   color: white;
   font-size: 350%;
   padding-top: 60px;
@@ -18,37 +18,36 @@ h2 {
   font-family: cursive;
   color: black;
 }
+
 .jumbotron {
   background-image: url("../img/siege.jpg");
 }
-body{
+
+body {
   background-image: url(../img/pingpong2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-
 }
 
 .column {
-    width: 350px;
-    float: right;
-    border: 1px solid white;
-  }
+  width: 350px;
+  float: right;
+  border: 1px solid white;
+}
 
 .column p, h3 {
   color: white;
-
-
 }
 
 .rules {
-    width: 350px;
-  }
+  width: 350px;
+}
 
 .rules p, ul, li {
   color: white;
-
 }
-label{
+
+label {
   color: white;
 }
