@@ -1,4 +1,18 @@
 header {
   background-image: url("../img/pingPong1.jpg");
+  background-position: center;
   height: 50vh;
+}
+
+h1 {
+  text-align: center;
+  font-size: 350%;
+  font-style: normal;
+  font-family: cursive;
+}
+body{
+  background-image: url("../img/Ping Pong Paddle .png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
