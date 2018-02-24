@@ -30,11 +30,12 @@ body{
 .column {
     width: 350px;
     float: left;
+    border: 1px solid white;
   }
 
-.column p {
+.column p, h3 {
   color: white;
-  border: 1px solid white;
+
 
 }
 
