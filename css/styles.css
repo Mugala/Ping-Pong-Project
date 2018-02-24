@@ -1,7 +1,13 @@
 header {
-  background-image: url("../img/pingPong1.jpg");
+  background-image: url("../img/siege.jpg");
   background-position: center;
   height: 50vh;
+}
+
+header, h1{
+  color: white;
+  font-size: 450%;
+  padding-top: 60px;
 }
 
 h1 {
@@ -9,7 +15,9 @@ h1 {
   font-size: 350%;
   font-style: normal;
   font-family: cursive;
-
+}
+.jumbotron {
+  background-color: grey;
 }
 body{
   background-image: url(../img/pingpong2.jpg);
@@ -28,5 +36,13 @@ body{
   color: white;
   border: 1px solid white;
 
+}
+
+.rules {
+    width: 350px;
+  }
+
+.rules p, ul, li {
+  color: white;
 
 }
